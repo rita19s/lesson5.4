@@ -1,0 +1,16 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+   text-align: center;
+}
+
+img {
+    border :3px solid #f54770;
+}
+
+footer {
+    background-color: black;
+    color: white;
+}
